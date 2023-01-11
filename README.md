@@ -1,7 +1,7 @@
 # 欢迎！这里是铢钧的字！
 这里是 [diaowinner](https://github.com/diaowinner) 的字体工作室！
 ## 字体一览
-### [粗柳坊字库](https://diaowinner.itch.io/)
+### 粗柳坊字库
 皆为不同来源的 BDF 矢量化产生的。包括：
 - [全小素](https://diaowinner.itch.io/galmuri-extended)
 - [台北字体](https://diaowinner.itch.io/taipei-fonts)
@@ -17,6 +17,7 @@
 - 邮箱：diaowinner at qq or gmail
 - QQ 频道：`Qny688xPiwOP2xJ1kT9weA==`  
 ([破解的秘方藏在你的心里](http://hi.pcmoe.net/aes.html))
+- [itch.io](https://diaowinner.itch.io/)
 ### 当然，你还可以斗内我：
-- [爱发电](https://afdian.net/@k8x12j)
+- [爱发电](https://afdian.net/@DWNfonts)
 - [收款码](https://github.com/DWNfonts/MuzaiPixel/blob/main/docs/donate.md#%E6%94%B6%E6%AC%BE%E7%A0%81)
