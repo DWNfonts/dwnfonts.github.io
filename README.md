@@ -12,6 +12,9 @@
 这些是我第一批作品，并没有什么原创性。
 ### [目哉像素体](https://github.com/DWNfonts/MuzaiPixel) - k8x12 补简计划
 目哉像素（曾用名 k8x12j）是一个基于 k8x12 的 8x12 中日文点阵（像素）字体。目前该字体已经做完全部 2500 常用字。
+### [FullPixel（中文名征集中）](https://github.com/DWNfonts/FullPixel)
+FullPixel - 一个 12x12 的像素字体，基于[方舟像素字体](https://raw.githubusercontent.com/TakWolf/ark-pixel-font)制作，目标是覆盖整个 Unicode 中日韩越统一汉字。  
+（还在研发…）
 ## 联系我
 - QQ 群（八进制）4471732361
 - 邮箱：diaowinner at qq or gmail
