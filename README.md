@@ -15,6 +15,10 @@
 
 这些是我第一批作品，并没有什么原创性。
 ### [目哉像素体](https://github.com/DWNfonts/MuzaiPixel) - k8x12 补简计划
+<iframe frameborder="0" src="https://itch.io/embed/1880418?bg_color=222222&amp;fg_color=eeeeee&amp;link_color=0484d1&amp;border_color=68515b" width="552" height="167"><a href="https://diaowinner.itch.io/muzaipixel">MuzaiPixel | 目哉像素 by DWNfonts 铢钧的字</a></iframe>
+
+> ↑ 在 itch.io 上查看！
+
 目哉像素（曾用名 k8x12j）是一个基于 k8x12 的 8x12 中日文点阵（像素）字体。目前该字体已经做完全部 2500 常用字。
 ### [FullPixel（中文名征集中）](https://github.com/DWNfonts/FullPixel)
 FullPixel - 一个 12x12 的像素字体，基于[方舟像素字体](https://raw.githubusercontent.com/TakWolf/ark-pixel-font)制作，目标是覆盖整个 Unicode 中日韩越统一汉字。  
