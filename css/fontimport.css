@@ -1,0 +1,79 @@
+﻿@font-face {
+    font-family: "FKai-F";
+    src: url("./FKai-F.eot");
+    src: url("./FKai-F.eot") format("embedded-opentype"),
+        url("./FKai-F.woff2") format("woff2"),
+        url("./FKai-F.woff") format("woff"),
+        url("./FKai-F.ttf") format("truetype"),
+        local("FKai-F")
+}
+
+@font-face {
+    font-family: "FSung-1";
+    src: url("./FSung-1.eot");
+    src: url("./FSung-1.eot") format("embedded-opentype"),
+        url("./FSung-1.woff2") format("woff2"),
+        url("./FSung-1.woff") format("woff"),
+        url("./FSung-1.ttf") format("truetype"),
+        local("FSung-1")
+}
+
+@font-face {
+    font-family: "FSung-2";
+    src: url("./FSung-2.eot");
+    src: url("./FSung-2.eot") format("embedded-opentype"),
+        url("./FSung-2.woff2") format("woff2"),
+        url("./FSung-2.woff") format("woff"),
+        url("./FSung-2.ttf") format("truetype"),
+        local("FSung-2")
+}
+
+@font-face {
+    font-family: "FSung-3";
+    src: url("./FSung-3.eot");
+    src: url("./FSung-3.eot") format("embedded-opentype"),
+        url("./FSung-3.woff2") format("woff2"),
+        url("./FSung-3.woff") format("woff"),
+        url("./FSung-3.ttf") format("truetype"),
+        local("FSung-3")
+}
+
+@font-face {
+    font-family: "FSung-F";
+    src: url("./FSung-F.eot");
+    src: url("./FSung-F.eot") format("embedded-opentype"),
+        url("./FSung-F.woff2") format("woff2"),
+        url("./FSung-F.woff") format("woff"),
+        url("./FSung-F.ttf") format("truetype"),
+        local("FSung-4")
+}
+
+@font-face {
+    font-family: "FSung-m";
+    src: url("./FSung-m.eot");
+    src: url("./FSung-m.eot") format("embedded-opentype"),
+        url("./FSung-m.woff2") format("woff2"),
+        url("./FSung-m.woff") format("woff"),
+        url("./FSung-m.ttf") format("truetype"),
+        local("FSung-m")
+}
+
+@font-face {
+    font-family: "FSung-p";
+    src: url("./FSung-p.eot");
+    src: url("./FSung-p.eot") format("embedded-opentype"),
+        url("./FSung-p.woff2") format("woff2"),
+        url("./FSung-p.woff") format("woff"),
+        url("./FSung-p.ttf") format("truetype"),
+        local("FSung-p")
+}
+
+@font-face {
+    font-family: "FSung-X";
+    src: url("./FSung-X.eot");
+    src: url("./FSung-X.eot") format("embedded-opentype"),
+        url("./FSung-X.woff2") format("woff2"),
+        url("./FSung-X.woff") format("woff"),
+        url("./FSung-X.ttf") format("truetype"),
+        local("FSung-X")
+}
