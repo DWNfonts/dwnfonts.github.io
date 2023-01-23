@@ -1,6 +1,6 @@
 # 欢迎！这里是铢钧的字！
 这里是 [diaowinner](https://github.com/diaowinner) 的字体工作室！  
-[部件检索](./hanseek.htm)
+<a href="hanseek.htm" onclick="window.open("https://dwnfonts.github.io/hanseek.htm","部件检索","height=768,width=1366,status=no,toolbar=no,location=no,status,no")">部件检索</a>
 ## 字体一览
 ### 粗柳坊字库
 皆为不同来源的 BDF 矢量化产生的。包括：
